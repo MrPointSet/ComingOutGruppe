@@ -10,7 +10,7 @@ haben musst. Hierzu zählen vielmehr auch persönliche Erlebnisse, Erkenntnisse,
 Menschen oder mögliche Schlüsselerlebnisse im Laufe des eigenen Lebens, die mit diesen Gefühlen in
 Zusammenhang stehen.
 Du kannst dazu entweder nur Teil I oder Teil II nutzen oder beide Teile.
-Suche Dir einen Ort, an dem Du nicht gestört werden kannst, und nimm Dir ausreichend Zeit und Ruhe! :-)
+Suche Dir einen Ort, an dem Du nicht gestört werden kannst, und nimm Dir ausreichend Zeit und Ruhe! :joy:
 
 ## Teil 1
 
@@ -36,31 +36,37 @@ Personen?
 
 Am heutigen Tag (Datum:__.__.____) ordne ich meine sexuelle und/oder romantische Orientierung auf der Grafik folgenderma\ssen ein:(markiere einen Punkt pro Linie)
 
-Zum weiblichen Geschlecht
+Zum **weiblichen** Geschlecht:
 
-Romantisch ----------------------------------------------------
-            wenig                                         stark
+Romantisch 
+----------------------------------------------------
+wenig                                         stark
 
-Sexuell    ----------------------------------------------------
-            wenig                                         stark 
-
-
-Zum maennlichen Geschlecht
-
-Romantisch ----------------------------------------------------
-            wenig                                         stark
-
-Sexuell    ----------------------------------------------------
-            wenig                                         stark 
+Sexuell
+----------------------------------------------------
+wenig                                         stark 
 
 
-Zu nichtbinaeren Personen
+Zum **m\"annlichen** Geschlecht:
 
-Romantisch ----------------------------------------------------
-            wenig                                         stark
+Romantisch 
+----------------------------------------------------
+wenig                                         stark
 
-Sexuell    ----------------------------------------------------
-            wenig                                         stark 
+Sexuell    
+----------------------------------------------------
+wenig                                         stark 
+
+
+Zu **nicht-bin\"aren** Personen:
+
+Romantisch 
+----------------------------------------------------
+wenig                                         stark
+
+Sexuell
+----------------------------------------------------
+wenig                                         stark 
 
 
 - Gab es bereits Menschen, die deine Gefühle abseits von Männern erwidert haben?
@@ -74,4 +80,4 @@ gesprochen oder sie angedeutet? Wenn ja, mit wem und wie haben die Personen reag
 um Dich zu informieren? Wie hilfreich/weniger hilfreich war das?
 - Was erhoffst Du Dir für Deine persönliche Entwicklung oder Deine jetzige Situation von Deiner Teilnahme an
 der Gruppe?
-- Worauf freust du dich?
+- **Worauf freust du dich?**
