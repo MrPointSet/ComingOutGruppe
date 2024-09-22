@@ -2,13 +2,14 @@
 # Meine persönliche Coming-Out-Geschichte
 
 Dieses Arbeitsblatt soll Dir eine Hilfestellung dabei sein, Dich vor allem mit Deiner sexuellen/romantischen Orientierung gedanklich zu
-beschäftigen.
+beschäftigen. 
 In den kommenden Sitzungen werden wir uns Zeit nehmen, die persönlichen Geschichten der einzelnen Personen
-kennen zu lernen. Mit Coming-Out–Geschichte ist dabei nicht gemeint, dass Du bereits mit anderen über die eigenen
-Gefühle für Menschen abseits der gesellschaftlichen Erwartung, dass Frauen nur Gefühle für Männer und vice versa, gesprochen
-haben musst. Hierzu zählen vielmehr auch persönliche Erlebnisse, Erkenntnisse, Begegnungen mit bestimmten
+kennen zu lernen.  
+Mit Coming-Out–Geschichte ist dabei **nicht** gemeint, dass Du bereits mit anderen über deine
+Gefühle für Menschen gesprochen haben musst, die nicht der Erwartung entsprechen, dass Frauen nur M nner lieben und umgekehrt.  
+Hierzu zählen vielmehr auch persönliche Erlebnisse, Erkenntnisse, Begegnungen mit bestimmten
 Menschen oder mögliche Schlüsselerlebnisse im Laufe des eigenen Lebens, die mit diesen Gefühlen in
-Zusammenhang stehen.
+Zusammenhang stehen. 
 Du kannst dazu entweder nur Teil I oder Teil II nutzen oder beide Teile.
 Suche Dir einen Ort, an dem Du nicht gestört werden kannst, und nimm Dir ausreichend Zeit und Ruhe! :smile:
 
