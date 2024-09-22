@@ -19,7 +19,7 @@ den Sinn kommen (z. B. kleine Bildchen, Symbole, kurze Texte, ein Comic, bunte F
 magst, kannst Du auch den unten stehenden Zahlenstrahl (eine oder beide Achsen) nutzen und für Dich z.B. als
 biographische Zeitachse Deines Lebens oder was auch immer für Dich passend ist beschriften.
 
-![Zeitreihe](zeitreihe.jpg)
+![Zeitreihe](zeitreihe.png)
 %   GRAFIK EINFUEGEN
 
 ## Teil 2
