@@ -10,7 +10,7 @@ haben musst. Hierzu zählen vielmehr auch persönliche Erlebnisse, Erkenntnisse,
 Menschen oder mögliche Schlüsselerlebnisse im Laufe des eigenen Lebens, die mit diesen Gefühlen in
 Zusammenhang stehen.
 Du kannst dazu entweder nur Teil I oder Teil II nutzen oder beide Teile.
-Suche Dir einen Ort, an dem Du nicht gestört werden kannst, und nimm Dir ausreichend Zeit und Ruhe! :joy:
+Suche Dir einen Ort, an dem Du nicht gestört werden kannst, und nimm Dir ausreichend Zeit und Ruhe! :smile:
 
 ## Teil 1
 
@@ -19,6 +19,7 @@ den Sinn kommen (z. B. kleine Bildchen, Symbole, kurze Texte, ein Comic, bunte F
 magst, kannst Du auch den unten stehenden Zahlenstrahl (eine oder beide Achsen) nutzen und für Dich z.B. als
 biographische Zeitachse Deines Lebens oder was auch immer für Dich passend ist beschriften.
 
+![Zeitreihe](zeitreihe.jpg)
 %   GRAFIK EINFUEGEN
 
 ## Teil 2
@@ -35,39 +36,17 @@ Personen?
 - Was wünschst Du Dir bzgl. Deiner romantischen und sexuellen Gefühle?
 
 Am heutigen Tag (Datum:__.__.____) ordne ich meine sexuelle und/oder romantische Orientierung auf der Grafik folgenderma\ssen ein:(markiere einen Punkt pro Linie)
-
-Zum **weiblichen** Geschlecht:
-
-Romantisch 
-----------------------------------------------------
-wenig                                         stark
-
-Sexuell
-----------------------------------------------------
-wenig                                         stark 
-
-
-Zum **m\"annlichen** Geschlecht:
-
-Romantisch 
-----------------------------------------------------
-wenig                                         stark
-
-Sexuell    
-----------------------------------------------------
-wenig                                         stark 
-
-
-Zu **nicht-bin\"aren** Personen:
-
-Romantisch 
-----------------------------------------------------
-wenig                                         stark
-
-Sexuell
-----------------------------------------------------
-wenig                                         stark 
-
+| | | | | |
+| --- | --- | --- | --- | ---- |
+| Zum **weiblichen** Geschlecht: | 
+|  | **romantisch** | wenig | _____________________________________________________________ | stark |
+|  | **sexuell** | wenig | _____________________________________________________________ | stark |
+| Zum **m\"annlichen** Geschlecht: |
+|  | **romantisch** | wenig | ______________________________________________________________| stark |
+|  | **sexuell** | wenig | _____________________________________________________________ | stark |
+| Zum **nicht-bin\"aren** [^1] Personen: |
+|  | **romantisch** | wenig | _____________________________________________________________ | stark |
+|  | **sexuell** | wenig | _____________________________________________________________ | stark |
 
 - Gab es bereits Menschen, die deine Gefühle abseits von Männern erwidert haben?
 - Nenne einige Adjektive, die Deine Gefühle und Erlebnisse früher mit Jungen und jetzt mit Männern
@@ -81,3 +60,5 @@ um Dich zu informieren? Wie hilfreich/weniger hilfreich war das?
 - Was erhoffst Du Dir für Deine persönliche Entwicklung oder Deine jetzige Situation von Deiner Teilnahme an
 der Gruppe?
 - **Worauf freust du dich?**
+
+[^1]: Fussnote nichtbin\"ar
