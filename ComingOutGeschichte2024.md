@@ -1,4 +1,4 @@
-# Coming-Out-Gruppe
+# Coming-Out-Gruppe für FLINTA 2024
 # Meine persönliche Coming-Out-Geschichte
 
 Dieses Arbeitsblatt soll Dir eine Hilfestellung dabei sein, Dich vor allem mit Deiner frauenliebenden Seite gedanklich zu
@@ -20,7 +20,7 @@ magst, kannst Du auch den unten stehenden Zahlenstrahl (eine oder beide Achsen) 
 biographische Zeitachse Deines Lebens oder was auch immer für Dich passend ist beschriften.
 
 ![Zeitreihe](zeitreihe.png)
-%   GRAFIK EINFUEGEN
+
 
 ## Teil 2
 
@@ -28,7 +28,9 @@ biographische Zeitachse Deines Lebens oder was auch immer für Dich passend ist 
 >Rückseite nutzen
 
 - Wenn Du Dich zurück erinnerst, wann hattest Du das erste Mal Gefühle für Frauen?
+'''
 
+'''
 
 
 - Was haben diese Gefühle mit Dir gemacht? Wie hast Du reagiert?
@@ -53,16 +55,16 @@ Personen?
 
 
 
-Am heutigen Tag (Datum:__.__.____) ordne ich meine sexuelle und/oder romantische Orientierung auf der Grafik folgenderma\ssen ein:(markiere einen Punkt pro Linie)
+Am heutigen Tag (Datum:__.__.____) ordne ich meine sexuelle und/oder romantische Orientierung auf der Grafik folgendermaßen ein:(markiere einen Punkt pro Linie)
 | | | | | |
 | --- | --- | --- | --- | ---- |
 | Zum **weiblichen** Geschlecht: | 
 |  | **romantisch** | wenig | _____________________________________________________________ | stark |
 |  | **sexuell** | wenig | _____________________________________________________________ | stark |
-| Zum **m\"annlichen** Geschlecht: |
+| Zum **männlichen** Geschlecht: |
 |  | **romantisch** | wenig | ______________________________________________________________| stark |
 |  | **sexuell** | wenig | _____________________________________________________________ | stark |
-| Zu **nichtbin\"aren** [^1] Personen: |
+| Zu **nichtbinären** [^1] Personen: |
 |  | **romantisch** | wenig | _____________________________________________________________ | stark |
 |  | **sexuell** | wenig | _____________________________________________________________ | stark |
 
@@ -104,3 +106,4 @@ der Gruppe?
 
 
 [^1]: **Nichtbinär**, manchmal auch non-binär oder wie im Englischen nonbinary, ist ein Überbegriff für alle Menschen, die weder männlich noch weiblich sind. Sie können sich z.B. zwischen diesen beiden Geschlechtern verorten, oder ganz außerhalb davon, oder auch gar kein Geschlecht haben (agender). Manche nichtbinäre Menschen sind auch gleichzeitig männlich und weiblich (bigender) oder haben eine Geschlechtsidentität, die sich immer wieder ändert (genderfluid).  Andere stellen sich gegen das binäre Geschlechtersystem und haben ein Geschlecht, das nichts mit Männlichkeit und Weiblichkeit zu tun hat (genderqueer). (Quelle: https://queer-lexikon.net/uebersichtsseiten/trans/)
+
