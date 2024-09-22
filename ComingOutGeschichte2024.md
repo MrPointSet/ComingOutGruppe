@@ -1,11 +1,11 @@
-# Coming-Out-Gruppe für FLINTA 2024
+# Coming-Out-Gruppe für FLINTA[^2] 2024
 # Meine persönliche Coming-Out-Geschichte
 
-Dieses Arbeitsblatt soll Dir eine Hilfestellung dabei sein, Dich vor allem mit Deiner frauenliebenden Seite gedanklich zu
+Dieses Arbeitsblatt soll Dir eine Hilfestellung dabei sein, Dich vor allem mit Deiner sexuellen/romantischen Orientierung gedanklich zu
 beschäftigen.
 In den kommenden Sitzungen werden wir uns Zeit nehmen, die persönlichen Geschichten der einzelnen Personen
 kennen zu lernen. Mit Coming-Out–Geschichte ist dabei nicht gemeint, dass Du bereits mit anderen über die eigenen
-Gefühle für Frauen und/oder Gefühlen abseits der Erwartungen, dass Frauen sich nur in Männer verlieben, gesprochen
+Gefühle für Menschen abseits der gesellschaftlichen Erwartung, dass Frauen nur Gefühle für Männer und vice versa, gesprochen
 haben musst. Hierzu zählen vielmehr auch persönliche Erlebnisse, Erkenntnisse, Begegnungen mit bestimmten
 Menschen oder mögliche Schlüsselerlebnisse im Laufe des eigenen Lebens, die mit diesen Gefühlen in
 Zusammenhang stehen.
@@ -27,35 +27,33 @@ biographische Zeitachse Deines Lebens oder was auch immer für Dich passend ist 
 >Beantworte alle Fragen, die Du gerne beantworten möchtest. Du kannst für einzelne Antworten auch zusätzlich die
 >Rückseite nutzen
 
-- Wenn Du Dich zurück erinnerst, wann hattest Du das erste Mal Gefühle für Frauen?
-'''
-
-'''
-
-
+- Wann hast du zum ersten Mal Gefühle für jemanden empfunden, die von den gesellschaftlichen Erwartungen an dich abwichen? 
+> 
+> 
+>   
 - Was haben diese Gefühle mit Dir gemacht? Wie hast Du reagiert?
-
-
-
-- Welche Assoziationen kommen Dir bei der Bezeichnung lesbisch, bisexuell oder pansexuell in den Sinn?
-
-
-
+> 
+> 
+> 
+- Welche Assoziationen kommen Dir bei der Bezeichnung schwul, lesbisch, bisexuell oder pansexuell in den Sinn?
+> 
+> 
+> 
 - Gibt es andere Begriffe, mit denen du dich in letzter Zeit in Bezug auf deine Sexualität auseinandersetzt?
-
-
-
-- Kennst Du Menschen, die offen lesbisch, bi, pan oder in anderer Weise queer leben? Wie stehst Du zu diesen
+> 
+> 
+> 
+- Kennst Du Menschen, die offen schwul, lesbisch, bi, pan oder in anderer Weise queer leben? Wie stehst Du zu diesen
 Personen?
-
-
-
+> 
+> 
+> 
 - Was wünschst Du Dir bzgl. Deiner romantischen und sexuellen Gefühle?
+> 
+> 
+> 
 
-
-
-
-Am heutigen Tag (Datum:__.__.____) ordne ich meine sexuelle und/oder romantische Orientierung auf der Grafik folgendermaßen ein:(markiere einen Punkt pro Linie)
+Am heutigen Tag ordne ich meine sexuelle und/oder romantische Orientierung auf der Grafik folgendermaßen ein (markiere einen Punkt pro Linie):
 | | | | | |
 | --- | --- | --- | --- | ---- |
 | Zum **weiblichen** Geschlecht: | 
@@ -68,42 +66,49 @@ Am heutigen Tag (Datum:__.__.____) ordne ich meine sexuelle und/oder romantische
 |  | **romantisch** | wenig | _____________________________________________________________ | stark |
 |  | **sexuell** | wenig | _____________________________________________________________ | stark |
 
-- Gab es bereits Menschen, die deine Gefühle abseits von Männern erwidert haben?
-
-
-
-- Nenne einige Adjektive, die Deine Gefühle und Erlebnisse früher mit Jungen und jetzt mit Männern
-beschreiben:
-
-
-
-- Wie ist/war die Einstellung Deiner Eltern gegenüber Menschen die nicht heterosexuell leben und lieben?
-
-
-
-- Hast Du schon mal mit jemandem über Deine Gefühle für Frauen und/oder z.B. nichtbinären Personen
-gesprochen oder sie angedeutet? Wenn ja, mit wem und wie haben die Personen reagiert?
-
-
-
+- Gab es bereits Menschen, die deine Gefühle erwidert haben?
+> 
+> 
+> 
+- Nenne einige Adjektive, die Deine Gefühle und Erlebnisse mit Menschen eines Geschlechts beschreiben, zu dem du dich nicht oder vermutlich weniger hingezogen fühlst als erwartet.
+> 
+> 
+> 
+- Wie ist/war die Einstellung Deiner Eltern gegenüber Menschen die queer leben?
+> 
+> 
+> 
+- Hast du das Gefühl, dass die Erwartungen deiner Familie oder deines Umfeldes deine Selbstwahrnehmung beeinflusst haben?
+> 
+> 
+> 
+- Hast du schon mal mit jemandem über deine Gefühle in Bezug auf deine Identität gesprochen oder sie angedeutet? 
+Wenn ja, wie haben die Personen reagiert?
+> 
+> 
+> 
 - Wem würdest Du gerne (noch) davon erzählen? Warum? Was erhoffst Du Dir davon?
-
-
-
+> 
+> 
+> 
 - Welche Medien, Veranstaltungen, Angebote, Filme, Bücher, etc. hast Du bereits kennengelernt und genutzt,
 um Dich zu informieren? Wie hilfreich/weniger hilfreich war das?
-
-
-
+> 
+> 
+> 
+-Fühlst du dich gefestigt in deiner Identität, und/oder gibt es Aspekte, die du noch erkunden möchtest?
+>
+>
+> 
 - Was erhoffst Du Dir für Deine persönliche Entwicklung oder Deine jetzige Situation von Deiner Teilnahme an
 der Gruppe?
-
-
-
+> 
+> 
+> 
 - **Worauf freust du dich?**
-
-
-
-
+> 
+> 
+> 
 [^1]: **Nichtbinär**, manchmal auch non-binär oder wie im Englischen nonbinary, ist ein Überbegriff für alle Menschen, die weder männlich noch weiblich sind. Sie können sich z.B. zwischen diesen beiden Geschlechtern verorten, oder ganz außerhalb davon, oder auch gar kein Geschlecht haben (agender). Manche nichtbinäre Menschen sind auch gleichzeitig männlich und weiblich (bigender) oder haben eine Geschlechtsidentität, die sich immer wieder ändert (genderfluid).  Andere stellen sich gegen das binäre Geschlechtersystem und haben ein Geschlecht, das nichts mit Männlichkeit und Weiblichkeit zu tun hat (genderqueer). (Quelle: https://queer-lexikon.net/uebersichtsseiten/trans/)
 
+[^2]: **FLINTA**, akronym für **F**rauen, **L**esben, **I**nter-, **N**ichtbinäre-, **T**rans-, und **A**geschtlechiche Personen. 
