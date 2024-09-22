@@ -96,7 +96,7 @@ um Dich zu informieren? Wie hilfreich/weniger hilfreich war das?
 > 
 > 
 > 
--Fühlst du dich gefestigt in deiner Identität, und/oder gibt es Aspekte, die du noch erkunden möchtest?
+- Fühlst du dich gefestigt in deiner Identität, und/oder gibt es Aspekte, die du noch erkunden möchtest?
 >
 >
 > 
