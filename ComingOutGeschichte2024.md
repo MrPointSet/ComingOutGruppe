@@ -112,6 +112,6 @@ der Gruppe?
 >____________________________________________________________________________________________________________
 [^1]: **Nichtbinär**, manchmal auch non-binär oder wie im Englischen nonbinary, ist ein Überbegriff für alle Menschen, die weder männlich noch weiblich sind. Sie können sich z.B. zwischen diesen beiden Geschlechtern verorten, oder ganz außerhalb davon, oder auch gar kein Geschlecht haben (**agender**). Manche nichtbinäre Menschen sind auch gleichzeitig männlich und weiblich (**bigender**) oder haben eine Geschlechtsidentität, die sich immer wieder ändert (**genderfluid**).  Andere stellen sich gegen das binäre Geschlechtersystem und haben ein Geschlecht, das nichts mit Männlichkeit und Weiblichkeit zu tun hat (**genderqueer**). (Quelle: https://queer-lexikon.net/uebersichtsseiten/trans/)
 
-[^2]: **FLINTA**, akronym für **F**rauen, **L**esben, **I**nter-, **N**ichtbinäre-, **T**rans-, und **A**geschtlechiche Personen. 
+[^2]: **FLINTA**, Akronym für **F**rauen, **L**esben, **I**nter-, **N**ichtbinäre-, **T**rans-, und **A**geschtlechiche Personen. 
 
 [^3]: **Queer**, kann als Überbegriff für Menschen benutzt werden, die nicht in die romantischen, sexuellen und/oder geschlechtlichen Normen der Gesellschaft passen. Oft wird es als offenere Variante zu LSBT+ verwendet. (Quelle: https://queer-lexikon.net/2017/06/08/queer/) 
