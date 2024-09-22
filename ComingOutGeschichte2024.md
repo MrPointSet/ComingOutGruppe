@@ -28,7 +28,7 @@ biographische Zeitachse Deines Lebens oder was auch immer für Dich passend ist 
 >Beantworte alle Fragen, die Du gerne beantworten möchtest. Du kannst für einzelne Antworten auch zusätzlich die
 >Rückseite nutzen
 
-- Wann hast du zum ersten Mal Gefühle für jemanden empfunden, die von den gesellschaftlichen Erwartungen an dich abwichen? 
+- Wann hast du zum ersten Mal Gefühle für eine Person oder mehrere Personen empfunden, die von den gesellschaftlichen Erwartungen an dich abwichen? 
 >____________________________________________________________________________________________________________ 
 >____________________________________________________________________________________________________________
 >____________________________________________________________________________________________________________
@@ -36,20 +36,20 @@ biographische Zeitachse Deines Lebens oder was auch immer für Dich passend ist 
 >____________________________________________________________________________________________________________ 
 >____________________________________________________________________________________________________________
 >____________________________________________________________________________________________________________ 
-- Welche Assoziationen kommen Dir bei der Bezeichnung schwul, lesbisch, bisexuell oder pansexuell in den Sinn?
+- Welche Assoziationen kommen Dir bei den Bezeichnungen schwul, lesbisch, bisexuell oder pansexuell in den Sinn?
 >____________________________________________________________________________________________________________ 
 >____________________________________________________________________________________________________________
 >____________________________________________________________________________________________________________
-- Gibt es andere Begriffe, mit denen du dich in letzter Zeit in Bezug auf deine Sexualität auseinandersetzt?
+- Gibt es andere Begriffe, mit denen du dich in letzter Zeit in Bezug auf dich auseinandersetzt?
 >____________________________________________________________________________________________________________ 
 >____________________________________________________________________________________________________________
 >____________________________________________________________________________________________________________
-- Kennst Du Menschen, die offen schwul, lesbisch, bi, pan oder in anderer Weise queer[^3] leben? Wie stehst Du zu diesen
+- Kennst Du Menschen, die offen schwul, lesbisch, bi, pan oder in anderer Weise queer[^3] leben? In welcher Verbindung stehst Du zu diesen
 Personen?
 >____________________________________________________________________________________________________________ 
 >____________________________________________________________________________________________________________
 >____________________________________________________________________________________________________________
-- Was wünschst Du Dir bzgl. Deiner romantischen und sexuellen Gefühle?
+- Was wünschst Du Dir bzgl. Deiner Gefühle?
 >____________________________________________________________________________________________________________ 
 >____________________________________________________________________________________________________________
 >____________________________________________________________________________________________________________
@@ -75,7 +75,7 @@ Am heutigen Tag ordne ich meine sexuelle und/oder romantische Orientierung auf d
 >____________________________________________________________________________________________________________ 
 >____________________________________________________________________________________________________________
 >____________________________________________________________________________________________________________
-- Wie ist/war die Einstellung Deiner Eltern gegenüber Menschen die queer[^3] leben?
+- Wie ist die Einstellung Deiner Eltern gegenüber Menschen die queer[^3] leben?
 >____________________________________________________________________________________________________________ 
 >____________________________________________________________________________________________________________
 >____________________________________________________________________________________________________________
@@ -93,7 +93,7 @@ Wenn ja, wie haben die Personen reagiert?
 >____________________________________________________________________________________________________________
 >____________________________________________________________________________________________________________
 - Welche Medien, Veranstaltungen, Angebote, Filme, Bücher, etc. hast Du bereits kennengelernt und genutzt,
-um Dich zu informieren? Wie hilfreich/weniger hilfreich war das?
+um Dich zu informieren? Konntest du dich durch Medien bereits mit deinen Themen auseinanderzusetzen? Wie hilfreich/weniger hilfreich war das?
 >____________________________________________________________________________________________________________ 
 >____________________________________________________________________________________________________________
 >____________________________________________________________________________________________________________ 
@@ -101,7 +101,7 @@ um Dich zu informieren? Wie hilfreich/weniger hilfreich war das?
 >____________________________________________________________________________________________________________ 
 >____________________________________________________________________________________________________________
 >____________________________________________________________________________________________________________
-- Was erhoffst Du Dir für Deine persönliche Entwicklung oder Deine jetzige Situation von Deiner Teilnahme an
+- Was erhoffst Du Dir für Deine persönliche Entwicklung oder Deine jetzige Situation allgemein und von Deiner Teilnahme an
 der Gruppe?
 >____________________________________________________________________________________________________________ 
 >____________________________________________________________________________________________________________
