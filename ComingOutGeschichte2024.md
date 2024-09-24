@@ -1,42 +1,42 @@
 # Coming-Out-Gruppe für FLINTA[^2] 2024
 # Meine persönliche Coming-Out-Geschichte
 
-Dieses Arbeitsblatt soll Dir eine Hilfestellung dabei sein, Dich vor allem mit Deiner sexuellen/romantischen Orientierung gedanklich zu
+Dieses Arbeitsblatt soll dir eine Hilfestellung dabei sein, dich vor allem mit deiner sexuellen/romantischen Orientierung gedanklich zu
 beschäftigen. 
 In den kommenden Sitzungen werden wir uns Zeit nehmen, die persönlichen Geschichten der einzelnen Personen
 kennen zu lernen.  
-Mit Coming-Out–Geschichte ist dabei **nicht** gemeint, dass Du bereits mit anderen über deine
+Mit Coming-Out–Geschichte ist dabei **nicht** gemeint, dass du bereits mit anderen über deine
 Gefühle gesprochen haben musst, die nicht der Erwartung entsprechen, dass Frauen nur Männer lieben und umgekehrt.  
 Hierzu zählen vielmehr auch persönliche Erlebnisse, Erkenntnisse, Begegnungen mit bestimmten
 Menschen oder mögliche Schlüsselerlebnisse im Laufe des eigenen Lebens, die mit diesen Gefühlen in
 Zusammenhang stehen. 
 Du kannst dazu entweder nur Teil I oder Teil II nutzen oder beide Teile.
-Suche Dir einen Ort, an dem Du nicht gestört werden kannst, und nimm Dir ausreichend Zeit und Ruhe! :smile:
+Suche dir einen Ort, an dem du nicht gestört werden kannst, und nimm dir ausreichend Zeit und Ruhe! :blush:
 
 ## Teil 1
 
-Stelle Deine Coming-Out-Geschichte graphisch/bildlich dar. Hier kannst Du Dich der Mittel bedienen, die Dir gerade in
-den Sinn kommen (z. B. kleine Bildchen, Symbole, kurze Texte, ein Comic, bunte Farben, Muster etc. ). Wenn Du
-magst, kannst Du auch den unten stehenden Zahlenstrahl (eine oder beide Achsen) nutzen und für Dich z.B. als
-biographische Zeitachse Deines Lebens oder was auch immer für Dich passend ist beschriften.
+Stelle deine Coming-Out-Geschichte graphisch/bildlich dar. Hier kannst du dich der Mittel bedienen, die dir gerade in
+den Sinn kommen (z. B. kleine Bildchen, Symbole, kurze Texte, ein Comic, bunte Farben, Muster etc. ). Wenn du
+magst, kannst du auch den unten stehenden Zahlenstrahl (eine oder beide Achsen) nutzen und für dich z.B. als
+biographische Zeitachse deines Lebens oder was auch immer für dich passend ist beschriften.
 
 ![Zeitreihe](zeitreihe.png)
 
 
 ## Teil 2
 
->Beantworte alle Fragen, die Du gerne beantworten möchtest. Du kannst für einzelne Antworten auch zusätzlich die
+>Beantworte alle Fragen, die du gerne beantworten möchtest. Du kannst für einzelne Antworten auch zusätzlich die
 >Rückseite nutzen
 
 - Wann hast du zum ersten Mal Gefühle für eine Person oder mehrere Personen empfunden, die von den gesellschaftlichen Erwartungen an dich abwichen? 
 >____________________________________________________________________________________________________________ 
 >____________________________________________________________________________________________________________
 >____________________________________________________________________________________________________________
-- Was haben diese Gefühle mit Dir gemacht? Wie hast Du reagiert?
+- Was haben diese Gefühle mit dir gemacht? Wie hast du reagiert?
 >____________________________________________________________________________________________________________ 
 >____________________________________________________________________________________________________________
 >____________________________________________________________________________________________________________ 
-- Welche Assoziationen kommen Dir bei den Bezeichnungen schwul, lesbisch, bisexuell oder pansexuell in den Sinn?
+- Welche Assoziationen kommen dir bei den Bezeichnungen lesbisch, schwul, bisexuell oder pansexuell in den Sinn?
 >____________________________________________________________________________________________________________ 
 >____________________________________________________________________________________________________________
 >____________________________________________________________________________________________________________
@@ -44,12 +44,12 @@ biographische Zeitachse Deines Lebens oder was auch immer für Dich passend ist 
 >____________________________________________________________________________________________________________ 
 >____________________________________________________________________________________________________________
 >____________________________________________________________________________________________________________
-- Kennst Du Menschen, die offen schwul, lesbisch, bi, pan oder in anderer Weise queer[^3] leben? In welcher Verbindung stehst Du zu diesen
+- Kennst du Menschen, die offen lesbisch, schwul, bi, pan oder in anderer Weise queer[^3] leben? In welcher Verbindung stehst du zu diesen
 Personen?
 >____________________________________________________________________________________________________________ 
 >____________________________________________________________________________________________________________
 >____________________________________________________________________________________________________________
-- Was wünschst Du Dir bzgl. Deiner Gefühle?
+- Was wünschst du dir bzgl. deiner Gefühle?
 >____________________________________________________________________________________________________________ 
 >____________________________________________________________________________________________________________
 >____________________________________________________________________________________________________________
@@ -60,22 +60,23 @@ Am heutigen Tag ordne ich meine sexuelle und/oder romantische Orientierung auf d
 | Zum **weiblichen** Geschlecht: | 
 |  | **romantisch** | wenig | _____________________________________________________________ | stark |
 |  | **sexuell** | wenig | _____________________________________________________________ | stark |
-| Zum **männlichen** Geschlecht: |
-|  | **romantisch** | wenig | ______________________________________________________________| stark |
-|  | **sexuell** | wenig | _____________________________________________________________ | stark |
 | Zu **nichtbinären** [^1] Personen: |
 |  | **romantisch** | wenig | _____________________________________________________________ | stark |
 |  | **sexuell** | wenig | _____________________________________________________________ | stark |
+| Zum **männlichen** Geschlecht: |
+|  | **romantisch** | wenig | ______________________________________________________________| stark |
+|  | **sexuell** | wenig | _____________________________________________________________ | stark |
+
 
 - Gab es bereits Menschen, die deine Gefühle erwidert haben?
 >____________________________________________________________________________________________________________ 
 >____________________________________________________________________________________________________________
 >____________________________________________________________________________________________________________
-- Nenne einige Adjektive, die Deine Gefühle und Erlebnisse mit Menschen eines Geschlechts beschreiben, zu dem du dich nicht oder vermutlich weniger hingezogen fühlst als erwartet.
+- Nenne einige Adjektive, die deine Gefühle und Erlebnisse mit Menschen eines Geschlechts beschreiben, zu dem du dich nicht oder vermutlich weniger hingezogen fühlst als erwartet.
 >____________________________________________________________________________________________________________ 
 >____________________________________________________________________________________________________________
 >____________________________________________________________________________________________________________
-- Wie ist die Einstellung Deiner Eltern gegenüber Menschen die queer[^3] leben?
+- Wie ist die Einstellung deiner Eltern gegenüber Menschen die queer[^3] leben?
 >____________________________________________________________________________________________________________ 
 >____________________________________________________________________________________________________________
 >____________________________________________________________________________________________________________
@@ -88,12 +89,12 @@ Wenn ja, wie haben die Personen reagiert?
 >____________________________________________________________________________________________________________ 
 >____________________________________________________________________________________________________________
 >____________________________________________________________________________________________________________
-- Wem würdest Du gerne (noch) davon erzählen? Warum? Was erhoffst Du Dir davon?
+- Wem würdest du gerne (noch) davon erzählen? Warum? Was erhoffst du dir davon?
 >____________________________________________________________________________________________________________ 
 >____________________________________________________________________________________________________________
 >____________________________________________________________________________________________________________
-- Welche Medien, Veranstaltungen, Angebote, Filme, Bücher, etc. hast Du bereits kennengelernt und genutzt,
-um Dich zu informieren? Konntest du dich durch Medien bereits mit deinen Themen auseinanderzusetzen? Wie hilfreich/weniger hilfreich war das?
+- Welche Medien, Veranstaltungen, Angebote, Filme, Bücher, etc. hast du bereits kennengelernt und genutzt,
+um dich zu informieren? Konntest du dich durch Medien bereits mit deinen Themen auseinanderzusetzen? Wie hilfreich/weniger hilfreich war das?
 >____________________________________________________________________________________________________________ 
 >____________________________________________________________________________________________________________
 >____________________________________________________________________________________________________________ 
@@ -101,7 +102,7 @@ um Dich zu informieren? Konntest du dich durch Medien bereits mit deinen Themen 
 >____________________________________________________________________________________________________________ 
 >____________________________________________________________________________________________________________
 >____________________________________________________________________________________________________________
-- Was erhoffst Du Dir für Deine persönliche Entwicklung oder Deine jetzige Situation allgemein und von Deiner Teilnahme an
+- Was erhoffst du dir für deine persönliche Entwicklung oder deine jetzige Situation allgemein und von deiner Teilnahme an
 der Gruppe?
 >____________________________________________________________________________________________________________ 
 >____________________________________________________________________________________________________________
